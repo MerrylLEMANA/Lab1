@@ -1,5 +1,5 @@
 public class helloWorld {
     public static void main(String[] args) {
-        System.out.println("Hello from main branch (modified)!");
+        System.out.println("Hello from nouveau conflict demo!");
     }
 }
